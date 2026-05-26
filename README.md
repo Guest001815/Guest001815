@@ -4,6 +4,8 @@ Python developer focused on AI applications, automation tools, and practical pro
 
 I am building a portfolio around real-world AI tools, workflow automation, and data-driven applications. I am open to software engineering roles, internship opportunities, and freelance projects where I can turn a rough idea into a working product.
 
+中文简介：我主要关注 Python、AI 应用、自动化工具和后端开发，正在持续打磨可展示、可落地的项目作品。欢迎软件开发岗位、实习机会和外包项目合作。
+
 ## What I Work On
 
 - AI applications: LLM tools, prompt workflows, resume assistants, content generation
@@ -44,6 +46,13 @@ I can help with:
 - Data cleaning, file processing, and report generation
 - Small backend services and API integrations
 - Turning an idea into a usable MVP
+
+可接方向：
+
+- AI 简历优化、求职辅助、内容生成类工具
+- Python 自动化脚本、批量文件处理、数据清洗
+- 小型后台系统、API 对接、业务流程工具
+- 从需求想法到 MVP 原型的快速开发
 
 ## Current Focus
 
